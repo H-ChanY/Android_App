@@ -1,0 +1,2 @@
+rootProject.name = "llistview_second_ex"
+include ':app'

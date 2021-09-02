@@ -1,0 +1,2 @@
+rootProject.name = "Trot_App"
+include ':app'
